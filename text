@@ -1,4 +1,9 @@
-4.24 Names are the simple symbols: I indicate them by single letters ('x',
-'y', 'z'). I write elementary propositions as functions of names, so that
-they have the form 'fx', 'O (x,y)', etc. Or I indicate them by the letters
-'p', 'q', 'r'.
+4.243 Can we understand two names without knowing whether they signify the
+same thing or two different things?--Can we understand a proposition in
+which two names occur without knowing whether their meaning is the same or
+different? Suppose I know the meaning of an English word and of a German
+word that means the same: then it is impossible for me to be unaware that
+they do mean the same; I must be capable of translating each into the
+other. Expressions like 'a = a', and those derived from them, are neither
+elementary propositions nor is there any other way in which they have
+sense. (This will become evident later.)
