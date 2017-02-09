@@ -1,2 +1,2 @@
-5.14 If one proposition follows from another, then the latter says more
-than the former, and the former less than the latter.
+5.141 If p follows from q and q from p, then they are one and same
+proposition.
