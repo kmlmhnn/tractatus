@@ -1,2 +1,15 @@
-4.127 The propositional variable signifies the formal concept, and its
-values signify the objects that fall under the concept.
+4.1272 Thus the variable name 'x' is the proper sign for the pseudo-concept
+object. Wherever the word 'object' ('thing', etc.) is correctly used, it is
+expressed in conceptual notation by a variable name. For example, in the
+proposition, 'There are 2 objects which. . .', it is expressed by ' (dx,y)
+... '. Wherever it is used in a different way, that is as a proper concept-
+word, nonsensical pseudo-propositions are the result. So one cannot say,
+for example, 'There are objects', as one might say, 'There are books'. And
+it is just as impossible to say, 'There are 100 objects', or, 'There are !0
+objects'. And it is nonsensical to speak of the total number of objects.
+The same applies to the words 'complex', 'fact', 'function', 'number', etc.
+They all signify formal concepts, and are represented in conceptual
+notation by variables, not by functions or classes (as Frege and Russell
+believed). '1 is a number', 'There is only one zero', and all similar
+expressions are nonsensical. (It is just as nonsensical to say, 'There is
+only one 1', as it would be to say, '2 + 2 at 3 o'clock equals 4'.)
