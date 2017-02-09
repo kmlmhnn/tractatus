@@ -1,4 +1,4 @@
-5.24 An operation manifests itself in a variable; it shows how we can get
-from one form of proposition to another. It gives expression to the
-difference between the forms. (And what the bases of an operation and its
-result have in common is just the bases themselves.)
+5.242 The operation that produces 'q' from 'p' also produces 'r' from 'q',
+and so on. There is only one way of expressing this: 'p', 'q', 'r', etc.
+have to be variables that give expression in a general way to certain
+formal relations.
