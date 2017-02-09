@@ -1,5 +1,5 @@
-6.23 If two expressions are combined by means of the sign of equality, that
-means that they can be substituted for one another. But it must be manifest
-in the two expressions themselves whether this is the case or not. When two
-expressions can be substituted for one another, that characterizes their
-logical form.
+6.232 Frege says that the two expressions have the same meaning but
+different senses. But the essential point about an equation is that it is
+not necessary in order to show that the two expressions connected by the
+sign of equality have the same meaning, since this can be seen from the two
+expressions themselves.
