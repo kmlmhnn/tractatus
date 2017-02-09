@@ -1,4 +1,13 @@
-5.45 If there are primitive logical signs, then any logic that fails to
-show clearly how they are placed relatively to one another and to justify
-their existence will be incorrect. The construction of logic out of its
-primitive signs must be made clear.
+5.451 If logic has primitive ideas, they must be independent of one
+another. If a primitive idea has been introduced, it must have been
+introduced in all the combinations in which it ever occurs. It cannot,
+therefore, be introduced first for one combination and later reintroduced
+for another. For example, once negation has been introduced, we must
+understand it both in propositions of the form 'Pp' and in propositions
+like 'P(p C q)', '(dx) . Pfx', etc. We must not introduce it first for the
+one class of cases and then for the other, since it would then be left in
+doubt whether its meaning were the same in both cases, and no reason would
+have been given for combining the signs in the same way in both cases. (In
+short, Frege's remarks about introducing signs by means of definitions (in
+The Fundamental Laws of Arithmetic ) also apply, mutatis mutandis, to the
+introduction of primitive signs.)
