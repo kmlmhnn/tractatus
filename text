@@ -1,4 +1,7 @@
-5.15 If Tr is the number of the truth-grounds of a proposition 'r', and if
-Trs is the number of the truth-grounds of a proposition 's' that are at the
-same time truth-grounds of 'r', then we call the ratio Trs : Tr the degree
-of probability that the proposition 'r' gives to the proposition 's'. 
+5.156 It is in this way that probability is a generalization. It involves a
+general description of a propositional form. We use probability only in
+default of certainty--if our knowledge of a fact is not indeed complete,
+but we do know something about its form. (A proposition may well be an
+incomplete picture of a certain situation, but it is always a complete
+picture of something .) A probability proposition is a sort of excerpt from
+other propositions.
