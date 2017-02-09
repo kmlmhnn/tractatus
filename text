@@ -1,5 +1,13 @@
-5.535 This also disposes of all the problems that were connected with such
-pseudo-propositions. All the problems that Russell's 'axiom of infinity'
-brings with it can be solved at this point. What the axiom of infinity is
-intended to say would express itself in language through the existence of
-infinitely many names with different meanings.
+5.5351 There are certain cases in which one is tempted to use expressions
+of the form 'a = a' or 'p z p' and the like. In fact, this happens when one
+wants to talk about prototypes, e.g. about proposition, thing, etc. Thus in
+Russell's Principles of Mathematics 'p is a proposition'--which is nonsense-
+-was given the symbolic rendering 'p z p' and placed as an hypothesis in
+front of certain propositions in order to exclude from their argument-
+places everything but propositions. (It is nonsense to place the hypothesis
+'p z p' in front of a proposition, in order to ensure that its arguments
+shall have the right form, if only because with a non-proposition as
+argument the hypothesis becomes not false but nonsensical, and because
+arguments of the wrong kind make the proposition itself nonsensical, so
+that it preserves itself from wrong arguments just as well, or as badly, as
+the hypothesis without sense that was appended for that purpose.)
