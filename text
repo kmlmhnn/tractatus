@@ -1,2 +1,8 @@
-5.51 If E has only one value, then N(E) = Pp (not p); if it has two values,
-then N(E) = Pp . Pq. (neither p nor g).
+5.513 We might say that what is common to all symbols that affirm both p
+and q is the proposition 'p . q'; and that what is common to all symbols
+that affirm either p or q is the proposition 'p C q'. And similarly we can
+say that two propositions are opposed to one another if they have nothing
+in common with one another, and that every proposition has only one
+negative, since there is only one proposition that lies completely outside
+it. Thus in Russell's notation too it is manifest that 'q : p C Pp' says
+the same thing as 'q', that 'p C Pq' says nothing.
