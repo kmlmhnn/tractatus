@@ -1,2 +1,4 @@
-5 A proposition is a truth-function of elementary propositions. (An
-elementary proposition is a truth-function of itself.)
+5.5 Every truth-function is a result of successive applications to
+elementary propositions of the operation '(-----T)(E, ....)'. This
+operation negates all the propositions in the right-hand pair of brackets,
+and I call it the negation of those propositions.
