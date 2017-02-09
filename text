@@ -1,2 +1,9 @@
-5.4 At this point it becomes manifest that there are no 'logical objects'
-or 'logical constants' (in Frege's and Russell's sense).
+5.44 Truth-functions are not material functions. For example, an
+affirmation can be produced by double negation: in such a case does it
+follow that in some sense negation is contained in affirmation? Does 'PPp'
+negate Pp, or does it affirm p--or both? The proposition 'PPp' is not about
+negation, as if negation were an object: on the other hand, the possibility
+of negation is already written into affirmation. And if there were an
+object called 'P', it would follow that 'PPp' said something different from
+what 'p' said, just because the one proposition would then be about P and
+the other would not.
