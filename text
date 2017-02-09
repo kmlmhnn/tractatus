@@ -1,3 +1,2 @@
-3.33 In logical syntax the meaning of a sign should never play a role. It
-must be possible to establish logical syntax without mentioning the meaning
-of a sign: only the description of expressions may be presupposed.
+3.334 The rules of logical syntax must go without saying, once we know how
+each individual sign signifies.
