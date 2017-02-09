@@ -1,2 +1,6 @@
-5.52 If E has as its values all the values of a function fx for all values
-of x, then N(E) = P(dx) . fx.
+5.525 It is incorrect to render the proposition '(dx) . fx' in the words,
+'fx is possible ' as Russell does. The certainty, possibility, or
+impossibility of a situation is not expressed by a proposition, but by an
+expression's being a tautology, a proposition with a sense, or a
+contradiction. The precedent to which we are constantly inclined to appeal
+must reside in the symbol itself.
