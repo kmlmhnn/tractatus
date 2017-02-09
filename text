@@ -1,3 +1,6 @@
-4.125 The existence of an internal relation between possible situations
-expresses itself in language by means of an internal relation between the
-propositions representing them.
+4.1252 I call a series that is ordered by an internal relation a series of
+forms. The order of the number-series is not governed by an external
+relation but by an internal relation. The same is true of the series of
+propositions 'aRb', '(d : c) : aRx . xRb', '(d x,y) : aRx . xRy . yRb', and
+so forth. (If b stands in one of these relations to a, I call b a successor
+of a.)
