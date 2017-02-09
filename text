@@ -1,1 +1,4 @@
-5.124 A proposition affirms every proposition that follows from it.
+5.1241 'p . q' is one of the propositions that affirm 'p' and at the same
+time one of the propositions that affirm 'q'. Two propositions are opposed
+to one another if there is no proposition with a sense, that affirms them
+both. Every proposition that contradicts another negate it.
