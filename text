@@ -1,12 +1,2 @@
-5.3 All propositions are results of truth-operations on elementary
-propositions. A truth-operation is the way in which a truth-function is
-produced out of elementary propositions. It is of the essence of truth-
-operations that, just as elementary propositions yield a truth-function of
-themselves, so too in the same way truth-functions yield a further truth-
-function. When a truth-operation is applied to truth-functions of
-elementary propositions, it always generates another truth-function of
-elementary propositions, another proposition. When a truth-operation is
-applied to the results of truth-operations on elementary propositions,
-there is always a single operation on elementary propositions that has the
-same result. Every proposition is the result of truth-operations on
-elementary propositions.
+5.32 All truth-functions are results of successive applications to
+elementary propositions of a finite number of truth-operations.
