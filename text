@@ -1,2 +1,4 @@
-5.1 Truth-functions can be arranged in series. That is the foundation of
-the theory of probability.
+5.15 If Tr is the number of the truth-grounds of a proposition 'r', and if
+Trs is the number of the truth-grounds of a proposition 's' that are at the
+same time truth-grounds of 'r', then we call the ratio Trs : Tr the degree
+of probability that the proposition 'r' gives to the proposition 's'. 
