@@ -1,2 +1,6 @@
-5.51 If E has only one value, then N(E) = Pp (not p); if it has two values,
-then N(E) = Pp . Pq. (neither p nor g).
+5.514 Once a notation has been established, there will be in it a rule
+governing the construction of all propositions that negate p, a rule
+governing the construction of all propositions that affirm p, and a rule
+governing the construction of all propositions that affirm p or q; and so
+on. These rules are equivalent to the symbols; and in them their sense is
+mirrored.
