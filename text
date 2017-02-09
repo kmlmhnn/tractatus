@@ -1,2 +1,4 @@
-6 The general form of a truth-function is [p, E, N(E)]. This is the general
-form of a proposition.
+6.002 If we are given the general form according to which propositions are
+constructed, then with it we are also given the general form according to
+which one proposition can be generated out of another by means of an
+operation.
