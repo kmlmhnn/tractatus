@@ -1,2 +1,12 @@
-4.44 The sign that results from correlating the mark 'I" with truth-
-possibilities is a propositional sign.
+4.442 For example, the following is a propositional sign: (Frege's
+'judgement stroke' '|-' is logically quite meaningless: in the works of
+Frege (and Russell) it simply indicates that these authors hold the
+propositions marked with this sign to be true. Thus '|-' is no more a
+component part of a proposition than is, for instance, the proposition's
+number. It is quite impossible for a proposition to state that it itself is
+true.) If the order or the truth-possibilities in a scheme is fixed once
+and for all by a combinatory rule, then the last column by itself will be
+an expression of the truth-conditions. If we now write this column as a
+row, the propositional sign will become '(TT-T) (p,q)' or more explicitly
+'(TTFT) (p,q)' (The number of places in the left-hand pair of brackets is
+determined by the number of terms in the right-hand pair.)
