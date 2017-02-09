@@ -1,2 +1,6 @@
-3.344 What signifies in a symbol is what is common to all the symbols that
-the rules of logical syntax allow us to substitute for it.
+3.3441 For instance, we can express what is common to all notations for
+truth-functions in the following way: they have in common that, for
+example, the notation that uses 'Pp' ('not p') and 'p C g' ('p or g') can
+be substituted for any of them. (This serves to characterize the way in
+which something general can be disclosed by the possibility of a specific
+notation.)
