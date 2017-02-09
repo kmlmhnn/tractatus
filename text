@@ -1,2 +1,11 @@
-4.127 The propositional variable signifies the formal concept, and its
-values signify the objects that fall under the concept.
+4.1273 If we want to express in conceptual notation the general
+proposition, 'b is a successor of a', then we require an expression for the
+general term of the series of forms 'aRb', '(d : c) : aRx . xRb', '(d x,y)
+: aRx . xRy . yRb', ... , In order to express the general term of a series
+of forms, we must use a variable, because the concept 'term of that series
+of forms' is a formal concept. (This is what Frege and Russell overlooked:
+consequently the way in which they want to express general propositions
+like the one above is incorrect; it contains a vicious circle.) We can
+determine the general term of a series of forms by giving its first term
+and the general form of the operation that produces the next term out of
+the proposition that precedes it.
