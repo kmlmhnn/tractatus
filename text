@@ -1,6 +1,6 @@
-5.131 If the truth of one proposition follows from the truth of others,
-this finds expression in relations in which the forms of the propositions
-stand to one another: nor is it necessary for us to set up these relations
-between them, by combining them with one another in a single proposition;
-on the contrary, the relations are internal, and their existence is an
-immediate result of the existence of the propositions.
+5.1311 When we infer q from p C q and Pp, the relation between the
+propositional forms of 'p C q' and 'Pp' is masked, in this case, by our
+mode of signifying. But if instead of 'p C q' we write, for example, 'p|q .
+| . p|q', and instead of 'Pp', 'p|p' (p|q = neither p nor q), then the
+inner connexion becomes obvious. (The possibility of inference from (x) .
+fx to fa shows that the symbol (x) . fx itself has generality in it.)
