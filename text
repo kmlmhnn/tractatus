@@ -1,4 +1,2 @@
-5.5 Every truth-function is a result of successive applications to
-elementary propositions of the operation '(-----T)(E, ....)'. This
-operation negates all the propositions in the right-hand pair of brackets,
-and I call it the negation of those propositions.
+5.52 If E has as its values all the values of a function fx for all values
+of x, then N(E) = P(dx) . fx.
