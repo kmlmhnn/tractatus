@@ -1,2 +1,13 @@
-5.1 Truth-functions can be arranged in series. That is the foundation of
-the theory of probability.
+5.101 The truth-functions of a given number of elementary propositions can
+always be set out in a schema of the following kind: (TTTT) (p, q)
+Tautology (If p then p, and if q then q.) (p z p . q z q) (FTTT) (p, q) In
+words : Not both p and q. (P(p . q)) (TFTT) (p, q) " : If q then p. (q z p)
+(TTFT) (p, q) " : If p then q. (p z q) (TTTF) (p, q) " : p or q. (p C q)
+(FFTT) (p, q) " : Not g. (Pq) (FTFT) (p, q) " : Not p. (Pp) (FTTF) (p, q) "
+: p or q, but not both. (p . Pq : C : q . Pp) (TFFT) (p, q) " : If p then
+p, and if q then p. (p + q) (TFTF) (p, q) " : p (TTFF) (p, q) " : q (FFFT)
+(p, q) " : Neither p nor q. (Pp . Pq or p | q) (FFTF) (p, q) " : p and not
+q. (p . Pq) (FTFF) (p, q) " : q and not p. (q . Pp) (TFFF) (p,q) " : q and
+p. (q . p) (FFFF) (p, q) Contradiction (p and not p, and q and not q.) (p .
+Pp . q . Pq) I will give the name truth-grounds of a proposition to those
+truth-possibilities of its truth-arguments that make it true.
