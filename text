@@ -1,5 +1,15 @@
-4.12 Propositions can represent the whole of reality, but they cannot
-represent what they must have in common with reality in order to be able
-to represent it-- logical form. In order to be able to represent logical
-form, we should have to be able to station ourselves with propositions
-somewhere outside logic, that is to say outside the world.
+4.126 We can now talk about formal concepts, in the same sense that we
+speak of formal properties. (I introduce this expression in order to
+exhibit the source of the confusion between formal concepts and concepts
+proper, which pervades the whole of traditional logic.) When something
+falls under a formal concept as one of its objects, this cannot be
+expressed by means of a proposition. Instead it is shown in the very sign
+for this object. (A name shows that it signifies an object, a sign for a
+number that it signifies a number, etc.) Formal concepts cannot, in fact,
+be represented by means of a function, as concepts proper can. For their
+characteristics, formal properties, are not expressed by means of
+functions. The expression for a formal property is a feature of certain
+symbols. So the sign for the characteristics of a formal concept is a
+distinctive feature of all symbols whose meanings fall under the concept.
+So the expression for a formal concept is a propositional variable in which
+this distinctive feature alone is constant.
