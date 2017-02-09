@@ -1,4 +1,13 @@
-5.15 If Tr is the number of the truth-grounds of a proposition 'r', and if
-Trs is the number of the truth-grounds of a proposition 's' that are at the
-same time truth-grounds of 'r', then we call the ratio Trs : Tr the degree
-of probability that the proposition 'r' gives to the proposition 's'. 
+5.154 Suppose that an urn contains black and white balls in equal numbers
+(and none of any other kind). I draw one ball after another, putting them
+back into the urn. By this experiment I can establish that the number of
+black balls drawn and the number of white balls drawn approximate to one
+another as the draw continues. So this is not a mathematical truth. Now, if
+I say, 'The probability of my drawing a white ball is equal to the
+probability of my drawing a black one', this means that all the
+circumstances that I know of (including the laws of nature assumed as
+hypotheses) give no more probability to the occurrence of the one event
+than to that of the other. That is to say, they give each the probability
+1/2 as can easily be gathered from the above definitions. What I confirm by
+the experiment is that the occurrence of the two events is independent of
+the circumstances of which I have no more detailed knowledge.
