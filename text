@@ -1,7 +1,6 @@
-6.12 The fact that the propositions of logic are tautologies shows the
-formal--logical--properties of language and the world. The fact that a
-tautology is yielded by this particular way of connecting its constituents
-characterizes the logic of its constituents. If propositions are to yield a
-tautology when they are connected in a certain way, they must have certain
-structural properties. So their yielding a tautology when combined in this
-shows that they possess these structural properties.
+6.1201 For example, the fact that the propositions 'p' and 'Pp' in the
+combination '(p . Pp)' yield a tautology shows that they contradict one
+another. The fact that the propositions 'p z q', 'p', and 'q', combined
+with one another in the form '(p z q) . (p) :z: (q)', yield a tautology
+shows that q follows from p and p z q. The fact that '(x) . fxx :z: fa' is
+a tautology shows that fa follows from (x) . fx. Etc. etc.
