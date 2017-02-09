@@ -1,4 +1,6 @@
-4.24 Names are the simple symbols: I indicate them by single letters ('x',
-'y', 'z'). I write elementary propositions as functions of names, so that
-they have the form 'fx', 'O (x,y)', etc. Or I indicate them by the letters
-'p', 'q', 'r'.
+4.241 When I use two signs with one and the same meaning, I express this by
+putting the sign '=' between them. So 'a = b' means that the sign 'b' can
+be substituted for the sign 'a'. (If I use an equation to introduce a new
+sign 'b', laying down that it shall serve as a substitute for a sign a that
+is already known, then, like Russell, I write the equation-- definition--in
+the form 'a = b Def.' A definition is a rule dealing with signs.)
