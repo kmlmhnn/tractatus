@@ -1,4 +1,16 @@
-5.5 Every truth-function is a result of successive applications to
-elementary propositions of the operation '(-----T)(E, ....)'. This
-operation negates all the propositions in the right-hand pair of brackets,
-and I call it the negation of those propositions.
+5.501 When a bracketed expression has propositions as its terms--and the
+order of the terms inside the brackets is indifferent--then I indicate it
+by a sign of the form '(E)'. '(E)' is a variable whose values are terms of
+the bracketed expression and the bar over the variable indicates that it is
+the representative of ali its values in the brackets. (E.g. if E has the
+three values P,Q, R, then (E) = (P, Q, R). ) What the values of the
+variable are is something that is stipulated. The stipulation is a
+description of the propositions that have the variable as their
+representative. How the description of the terms of the bracketed
+expression is produced is not essential. We can distinguish three kinds of
+description: 1.Direct enumeration, in which case we can simply substitute
+for the variable the constants that are its values; 2. giving a function fx
+whose values for all values of x are the propositions to be described; 3.
+giving a formal law that governs the construction of the propositions, in
+which case the bracketed expression has as its members all the terms of a
+series of forms.
