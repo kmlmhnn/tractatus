@@ -1,2 +1,3 @@
-5.1 Truth-functions can be arranged in series. That is the foundation of
-the theory of probability.
+5.11 If all the truth-grounds that are common to a number of propositions
+are at the same time truth-grounds of a certain proposition, then we say
+that the truth of that proposition follows from the truth of the others.
