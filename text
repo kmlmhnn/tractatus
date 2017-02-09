@@ -1,4 +1,6 @@
-5.15 If Tr is the number of the truth-grounds of a proposition 'r', and if
-Trs is the number of the truth-grounds of a proposition 's' that are at the
-same time truth-grounds of 'r', then we call the ratio Trs : Tr the degree
-of probability that the proposition 'r' gives to the proposition 's'. 
+5.152 When propositions have no truth-arguments in common with one another,
+we call them independent of one another. Two elementary propositions give
+one another the probability 1/2. If p follows from q, then the proposition
+'q' gives to the proposition 'p' the probability 1. The certainty of
+logical inference is a limiting case of probability. (Application of this
+to tautology and contradiction.)
