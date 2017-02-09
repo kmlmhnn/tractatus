@@ -1,2 +1,4 @@
-5.52 If E has as its values all the values of a function fx for all values
-of x, then N(E) = P(dx) . fx.
+5.521 I dissociate the concept all from truth-functions. Frege and Russell
+introduced generality in association with logical productor logical sum.
+This made it difficult to understand the propositions '(dx) . fx' and '(x)
+. fx', in which both ideas are embedded.
