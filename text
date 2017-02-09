@@ -1,7 +1,15 @@
-6.12 The fact that the propositions of logic are tautologies shows the
-formal--logical--properties of language and the world. The fact that a
-tautology is yielded by this particular way of connecting its constituents
-characterizes the logic of its constituents. If propositions are to yield a
-tautology when they are connected in a certain way, they must have certain
-structural properties. So their yielding a tautology when combined in this
-shows that they possess these structural properties.
+6.1203 In order to recognize an expression as a tautology, in cases where
+no generality-sign occurs in it, one can employ the following intuitive
+method: instead of 'p', 'q', 'r', etc. I write 'TpF', 'TqF', 'TrF', etc.
+Truth-combinations I express by means of brackets, e.g. and I use lines to
+express the correlation of the truth or falsity of the whole proposition
+with the truth-combinations of its truth-arguments, in the following way So
+this sign, for instance, would represent the proposition p z q. Now, by way
+of example, I wish to examine the proposition P(p .Pp) (the law of
+contradiction) in order to determine whether it is a tautology. In our
+notation the form 'PE' is written as and the form 'E . n' as Hence the
+proposition P(p . Pp). reads as follows If we here substitute 'p' for 'q'
+and examine how the outermost T and F are connected with the innermost
+ones, the result will be that the truth of the whole proposition is
+correlated with all the truth-combinations of its argument, and its falsity
+with none of the truth-combinations.
