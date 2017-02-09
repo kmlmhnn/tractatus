@@ -1,2 +1,14 @@
-5 A proposition is a truth-function of elementary propositions. (An
-elementary proposition is a truth-function of itself.)
+5.02 The arguments of functions are readily confused with the affixes of
+names. For both arguments and affixes enable me to recognize the meaning of
+the signs containing them. For example, when Russell writes '+c', the 'c'
+is an affix which indicates that the sign as a whole is the addition-sign
+for cardinal numbers. But the use of this sign is the result of arbitrary
+convention and it would be quite possible to choose a simple sign instead
+of '+c'; in 'Pp' however, 'p' is not an affix but an argument: the sense of
+'Pp' cannot be understood unless the sense of 'p' has been understood
+already. (In the name Julius Caesar 'Julius' is an affix. An affix is
+always part of a description of the object to whose name we attach it: e.g.
+the Caesar of the Julian gens.) If I am not mistaken, Frege's theory about
+the meaning of propositions and functions is based on the confusion between
+an argument and an affix. Frege regarded the propositions of logic as
+names, and their arguments as the affixes of those names.
