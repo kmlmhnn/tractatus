@@ -1,4 +1,2 @@
-4.24 Names are the simple symbols: I indicate them by single letters ('x',
-'y', 'z'). I write elementary propositions as functions of names, so that
-they have the form 'fx', 'O (x,y)', etc. Or I indicate them by the letters
-'p', 'q', 'r'.
+4.242 Expressions of the form 'a = b' are, therefore, mere representational
+devices. They state nothing about the meaning of the signs 'a' and 'b'.
