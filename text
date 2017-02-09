@@ -1,4 +1,5 @@
-6.122 It follows from this that we can actually do without logical
-propositions; for in a suitable notation we can in fact recognize the
-formal properties of propositions by mere inspection of the propositions
-themselves.
+6.1221 If, for example, two propositions 'p' and 'q' in the combination 'p
+z q' yield a tautology, then it is clear that q follows from p. For
+example, we see from the two propositions themselves that 'q' follows from
+'p z q . p', but it is also possible to show it in this way: we combine
+them to form 'p z q . p :z: q', and then show that this is a tautology.
