@@ -1,3 +1,7 @@
-6.127 All the propositions of logic are of equal status: it is not the case
-that some of them are essentially derived propositions. Every tautology
-itself shows that it is a tautology.
+6.1271 It is clear that the number of the 'primitive propositions of logic'
+is arbitrary, since one could derive logic from a single primitive
+proposition, e.g. by simply constructing the logical product of Frege's
+primitive propositions. (Frege would perhaps say that we should then no
+longer have an immediately self-evident primitive proposition. But it is
+remarkable that a thinker as rigorous as Frege appealed to the degree of
+self-evidence as the criterion of a logical proposition.)
