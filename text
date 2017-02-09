@@ -1,2 +1,7 @@
-5.51 If E has only one value, then N(E) = Pp (not p); if it has two values,
-then N(E) = Pp . Pq. (neither p nor g).
+5.515 It must be manifest in our symbols that it can only be propositions
+that are combined with one another by 'C', '.', etc. And this is indeed the
+case, since the symbol in 'p' and 'q' itself presupposes 'C', 'P', etc. If
+the sign 'p' in 'p C q' does not stand for a complex sign, then it cannot
+have sense by itself: but in that case the signs 'p C p', 'p . p', etc.,
+which have the same sense as p, must also lack sense. But if 'p C p' has no
+sense, then 'p C q' cannot have a sense either.
