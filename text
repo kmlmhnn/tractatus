@@ -1,12 +1,2 @@
-6.126 One can calculate whether a proposition belongs to logic, by
-calculating the logical properties of the symbol. And this is what we do
-when we 'prove' a logical proposition. For, without bothering about sense
-or meaning, we construct the logical proposition out of others using only
-rules that deal with signs . The proof of logical propositions consists in
-the following process: we produce them out of other logical propositions by
-successively applying certain operations that always generate further
-tautologies out of the initial ones. (And in fact only tautologies follow
-from a tautology.) Of course this way of showing that the propositions of
-logic are tautologies is not at all essential to logic, if only because the
-propositions from which the proof starts must show without any proof that
-they are tautologies.
+6.1262 Proof in logic is merely a mechanical expedient to facilitate the
+recognition of tautologies in complicated cases.
