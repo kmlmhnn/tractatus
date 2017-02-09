@@ -1,3 +1,3 @@
-5.234 Truth-functions of elementary propositions are results of operations
-with elementary propositions as bases. (These operations I call truth-
-operations.)
+5.2341 The sense of a truth-function of p is a function of the sense of p.
+Negation, logical addition, logical multiplication, etc. etc. are
+operations. (Negation reverses the sense of a proposition.)
