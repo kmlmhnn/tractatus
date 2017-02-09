@@ -1,4 +1,4 @@
-5.15 If Tr is the number of the truth-grounds of a proposition 'r', and if
-Trs is the number of the truth-grounds of a proposition 's' that are at the
-same time truth-grounds of 'r', then we call the ratio Trs : Tr the degree
-of probability that the proposition 'r' gives to the proposition 's'. 
+5.151 In a schema like the one above in let Tr be the number of 'T's' in 
+the proposition r, and let Trs, be the number of 'T's' in the propositions 
+that stand in columns in which the proposition r has 'T's'. Then the
+proposition r gives to the proposition s the probability Trs : Tr.
