@@ -1,2 +1,7 @@
-6 The general form of a truth-function is [p, E, N(E)]. This is the general
-form of a proposition.
+6.02 And this is how we arrive at numbers. I give the following definitions
+x = /0x Def., /'/v'x = /v+1'x Def. So, in accordance with these rules,
+which deal with signs, we write the series x, /'x, /'/'x, /'/'/'x, ... , in
+the following way /0'x, /0+1'x, /0+1+1'x, /0+1+1+1'x, ... . Therefore,
+instead of '[x, E, /'E]', I write '[/0'x, /v'x, /v+1'x]'. And I give the
+following definitions 0 + 1 = 1 Def., 0 + 1 + 1 = 2 Def., 0 + 1 + 1 +1 = 3
+Def., (and so on).
