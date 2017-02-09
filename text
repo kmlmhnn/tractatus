@@ -1,4 +1,2 @@
-5.25 The occurrence of an operation does not characterize the sense of a
-proposition. Indeed, no statement is made by an operation, but only by its
-result, and this depends on the bases of the operation. (Operations and
-functions must not be confused with each other.)
+5.251 A function cannot be its own argument, whereas an operation can take
+one of its own results as its base.
