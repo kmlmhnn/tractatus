@@ -1,5 +1,4 @@
-3.31 I call any part of a proposition that characterizes its sense an
-expression (or a symbol). (A proposition is itself an expression.)
-Everything essential to their sense that propositions can have in common
-with one another is an expression. An expression is the mark of a form and
-a content.
+3.313 Thus an expression is presented by means of a variable whose values
+are the propositions that contain the expression. (In the limiting case the
+variable becomes a constant, the expression becomes a proposition.) I call
+such a variable a 'propositional variable'.
