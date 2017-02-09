@@ -1,2 +1,2 @@
-6 The general form of a truth-function is [p, E, N(E)]. This is the general
-form of a proposition.
+6.001 What this says is just that every proposition is a result of
+successive applications to elementary propositions of the operation N(E)
